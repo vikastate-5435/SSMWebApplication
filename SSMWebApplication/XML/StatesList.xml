@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<States>
+	<state>
+		<StateId>1</StateId>
+		<StateName>
+			Maharashtra
+		</StateName>
+	</state>
+
+	<state>
+		<StateId>2</StateId>
+		<StateName>
+			Telangana
+		</StateName>
+	</state>
+	<state>
+		<StateId>3</StateId>
+		<StateName>
+			Gujarat
+		</StateName>
+	</state>
+	<state>
+		<StateId>4</StateId>
+		<StateName>
+			Jammu-Kashmir
+		</StateName>
+	</state>
+	<state>
+		<StateId>5</StateId>
+		<StateName>
+			Odhisa
+		</StateName>
+	</state>
+	<state>
+		<StateId>6</StateId>
+		<StateName>
+			Uttar Pradesh
+		</StateName>
+	</state>
+	<state>
+		<StateId>7</StateId>
+		<StateName>
+			Kerala
+		</StateName>
+	</state>
+	<state>
+		<StateId>8</StateId>
+		<StateName>
+			Rajasthan
+		</StateName>
+	</state>
+</States>

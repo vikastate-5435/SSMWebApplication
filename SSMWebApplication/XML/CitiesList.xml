@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Cities>
+	<city>
+		<CityId>1</CityId>
+		<CityName>Pune</CityName>
+		<StateId>1</StateId>
+	</city>
+	<city>
+		<CityId>2</CityId>
+		<CityName>Mumbai</CityName>
+		<StateId>1</StateId>
+	</city>
+	<city>
+		<CityId>3</CityId>
+		<CityName>Baramati</CityName>
+		<StateId>1</StateId>
+	</city>
+	<city>
+		<CityId>4</CityId>
+		<CityName>Satara</CityName>
+		<StateId>1</StateId>
+	</city>
+	<city>
+		<CityId>5</CityId>
+		<CityName>Kolhapur</CityName>
+		<StateId>1</StateId>
+	</city>
+	<city>
+		<CityId>6</CityId>
+		<CityName>Sangli</CityName>
+		<StateId>1</StateId>
+	</city>
+</Cities>
